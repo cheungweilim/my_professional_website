@@ -33,7 +33,7 @@ params:
   contactLink: '#contact'
   copyright: All right reserved copyright © Dr. -Ing. William Truong 2022
   footerLogo: images/site-navigation/logo-william.png
-  formspreeURL: YOUR FORMSPREE URL
+  formspreeURL: https://formspree.io/f/mknekdel
   googleAnalytics: YOUR GOOGLE ANALYTICS CODE
   logo: images/site-navigation/logo-william.png
   social:

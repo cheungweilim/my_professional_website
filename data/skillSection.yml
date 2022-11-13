@@ -1,0 +1,24 @@
+---
+enable: true
+topTitle: My Skills
+content: >
+  ## Here's where I can help
+
+  I have a strong background in lighting technology, data science and machine learning. 
+  I mainly use R and Python to solve daten-driven challenges.
+
+image: images/hero/user-picture-wt.jpg
+
+skill:
+  - title: R
+    percent: 90
+  - title: Python
+    percent: 50
+  - title: Shiny Apps
+    percent: 90
+  - title: Matlab
+    percent: 90
+  - title: javaScript
+    percent: 30
+  - title: Microsoft Office
+    percent: 90

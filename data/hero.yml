@@ -1,0 +1,15 @@
+---
+enable: true
+topTitle: Data Scientist
+content: >
+  # Hi I'm William
+  
+  Dr.-Ing. William Truong is a lighting engineer who specializes in developing 
+  [data science applications](https://shiny.williamtruong.de/) to support 
+  business decision making.
+buttonName: Contact William
+buttonIcon: 'fa fa-envelope'
+buttonURL: "#contact"
+image: images/hero/user-picture-wt.jpg
+videoThumb: images/hero/data-science.gif
+videoURL: https://www.youtube.com/watch?v=rJawNrD3xlU

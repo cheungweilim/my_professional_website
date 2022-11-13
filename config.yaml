@@ -1,0 +1,42 @@
+baseURL: /
+languageCode: en-us
+paginate: 6
+theme: portio-hugo-data-science
+title: Dr. -Ing. William Truong Data Science Portfolio
+menu:
+  main:
+    - name: Home
+      url: '#home'
+      weight: 1
+    - name: About
+      url: '#about'
+      weight: 2
+    - name: Portfolio
+      url: '#portfolio'
+      weight: 4
+    - name: Resume
+      url: '#resume'
+      weight: 5
+    - name: Blog
+      url: blog
+      weight: 6
+  sitemap:
+    - name: Home
+      url: /
+      weight: 1
+    - name: Blog
+      url: blog
+      weight: 2
+params:
+  blogPageURL: blog
+  contactButtonLabel: Contact William Today
+  contactLink: '#contact'
+  copyright: All right reserved copyright © Dr. -Ing. William Truong 2022
+  footerLogo: images/site-navigation/logo-william.png
+  formspreeURL: YOUR FORMSPREE URL
+  googleAnalytics: YOUR GOOGLE ANALYTICS CODE
+  logo: images/site-navigation/logo-william.png
+  social:
+    - icon: fa-linkedin-square
+      url: https://www.linkedin.com/in/truongwilliam/
+      weight: 1

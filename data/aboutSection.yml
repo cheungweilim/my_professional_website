@@ -1,0 +1,24 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## Who is William?
+
+  Dr. -Ing. William Truong is a business-oriented data scienctist with 8 years of experience as a R&D lighting engineer.
+content: >
+  ### I build and integrate awesome Data Science Applications
+  
+  I love to develop data-driven application that will provide more opportunities. But, when I'm not building new apps, I do sports and play games with family and friends. 
+
+
+  My focus is on the application of Data Science in business. I add value to companies by understanding business problems. 
+  
+  
+  I create data-driven solutions to help stakeholders make better decisions using data.
+
+button1Name: LinkedIn
+button2Name: Download CV (Not Ready)
+button1Target: https://www.linkedin.com/in/truongwilliam/
+button2Target: "/cv/resume-matt.pdf"
+image: images/hero/user-picture-wt.jpg
+imageMaskPosition: 70px 0px

@@ -1,0 +1,82 @@
+---
+enable: true
+topTitle: My Resume
+title: >
+  ## My Experience & Education
+
+  Over 8 years of experience in the lighting industry and respectively over 
+  4 years in its research fields.
+
+buttonName: "Download Resume PDF (not ready)"
+buttonTarget: "/cv/resume-matt.pdf"
+
+tab1Name: Experience
+tab2Name: Education
+tab1Target: experience
+tab2Target: education
+
+
+experience:
+  - content: >
+  
+      ### Lighting Engineer
+      
+      #### [PRACHT](https://www.pracht.com/) 
+      
+      - Used data-driven models to estimate lighting data of luminaire, LED-modules and LED-packages.
+      
+      - Develops luminaires, creates and manage technical data
+      
+      - Performs product certifications (ENEC, CE, UKCA)
+      
+      - Leads the lighting laboratory 
+      
+      
+  - content: >
+      ### Internship
+      
+      #### [Polytec GmbH](https://www.polytec.com/de)
+
+      - Use of Laser-Doppler-Vibrometry to measure motion via optical flow.
+    time: 2012-2013
+    
+education:
+  - content: >
+      
+      #### Ph.D. in Electrical Engineering
+      
+      ##### Technical University of Darmstadt
+      
+      ###### Dissertation
+      
+      Modellierung des Ciracadian Stimulus mit foto- und farbmetrischen Größen 
+      sowie Untersuchung des Lichteinﬂusses auf die Schlafqualität und 
+      Schläfrigkeit von Frühschichtarbeitenden 
+      
+      
+    
+    time: 2017-2021
+  - content: >
+      #### M.Sc. in Electrical Engineering
+      
+      ##### Karlsruhe Institute of Technology
+      
+      ###### Master Thesis
+      
+      Modellierung einer quecksilberfreien Niederdrucklampe
+      
+      
+    
+    time: 2010-2014
+  - content: >
+      #### B.Sc. in Electrical Engineering
+      
+      ##### Karlsruhe Institute of Technology
+      
+      ###### Bachelor Thesis
+      
+      Entwicklung und Aufbau eines Konfokal-Dunkelfeld-Mikroskopiesystems unter 
+      Verwendung kegelförmiger Linsen
+      
+    time: 2007-2010
+  

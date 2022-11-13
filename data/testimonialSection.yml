@@ -1,0 +1,11 @@
+---
+enable: true
+topTitle: Testimonials
+title: >
+
+testimonial:
+  - name: Matt Dancho
+    title: Founder and CEO, Business Science
+    image: "/images/testimonial/matt.jpg"
+    comment: "I am confident that William will be an excellent fit for data science positions that involve challenging business problems and a desire to make better business decisions."
+    star: 5

@@ -16,8 +16,10 @@ skill:
     percent: 50
   - title: Shiny Apps
     percent: 90
-  - title: Matlab
-    percent: 90
+  - title: AWS
+    percent: 40
+  - title: SQL
+    percent: 30
   - title: javaScript
     percent: 30
   - title: Microsoft Office

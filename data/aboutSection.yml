@@ -17,8 +17,8 @@ content: >
   I create data-driven solutions to help stakeholders make better decisions using data.
 
 button1Name: LinkedIn
-button2Name: Download CV (Not Ready)
+button2Name: Download CV
 button1Target: https://www.linkedin.com/in/truongwilliam/
-button2Target: "/cv/resume-matt.pdf"
+button2Target: "/cv/resume-william.pdf"
 image: images/hero/user-picture-wt.jpg
 imageMaskPosition: 70px 0px

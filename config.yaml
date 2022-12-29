@@ -40,3 +40,6 @@ params:
     - icon: fa-linkedin-square
       url: https://www.linkedin.com/in/truongwilliam/
       weight: 1
+    - icon: /static/icons/orcid.svg
+      url: https://orcid.org/0000-0002-9857-4437
+      weight: 2

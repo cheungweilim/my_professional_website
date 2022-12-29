@@ -11,5 +11,5 @@ buttonName: Contact William
 buttonIcon: 'fa fa-envelope'
 buttonURL: "#contact"
 image: images/hero/user-picture-wt.jpg
-videoThumb: images/hero/data-science.gif
-videoURL: https://www.youtube.com/watch?v=rJawNrD3xlU
+# videoThumb: images/hero/data-science.gif
+# videoURL: https://www.youtube.com/watch?v=rJawNrD3xlU

@@ -27,4 +27,5 @@ fields:
   name: title
   label: title
 pages:
-- content/portfolio/titel-forestry-test.md
+- content/portfolio/estimate-luminaire-data.md
+- content/portfolio/pv-power-consumption.md

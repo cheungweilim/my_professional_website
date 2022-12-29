@@ -17,4 +17,8 @@ title = "Luminaire Data Estimation"
 
 ✅ HTML and CSS
 
-✅ Product Gap Analysis using Machine Learning (XGBoost)
+✅ Modeling of LED driver using Machine Learning (XGBoost)
+
+✅ Modeling of LED modules
+
+✅ Integration of Models to calculate lighting data

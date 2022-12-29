@@ -9,3 +9,12 @@ thumbnail = "/uploads/estimate-luminaire-app.png"
 title = "Luminaire Data Estimation"
 
 +++
+#### [View Dashboard](https://pit-gmbh-wt.shinyapps.io/app_estimate/)
+
+## Project Requirements
+
+✅ Shiny Web Applications
+
+✅ HTML and CSS
+
+✅ Product Gap Analysis using Machine Learning (XGBoost)

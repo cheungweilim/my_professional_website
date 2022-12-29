@@ -27,4 +27,5 @@ fields:
   name: title
   label: title
 pages:
+- content/portfolio/estimate-luminaire-data.md
 - content/portfolio/titel-forestry-test.md

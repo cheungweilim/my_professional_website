@@ -9,3 +9,12 @@ thumbnail = "/uploads/pv-power-consumption.png"
 title = "Photovoltaic Investment Assessment"
 
 +++
+#### [View Dashboard](https://williamtruong.shinyapps.io/power_consumption_pv_app/)
+
+## Project Requirements
+
+✅ Shiny Web Application
+
+✅ HTML and CSS
+
+✅ Integrate and plot Time-Series data

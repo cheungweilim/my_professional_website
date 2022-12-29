@@ -1,5 +1,5 @@
 +++
-categories = "Test; Webapp"
+categories = "Test; Web Apps"
 challenge = "To set up forestry for creating a beautiful website"
 date = 2022-11-12T23:00:00Z
 project = "Testprojekt"

@@ -13,7 +13,7 @@ title = "Luminaire Data Estimation"
 
 ## Project Requirements
 
-✅ Shiny Web Applications
+✅ Shiny Web Application
 
 ✅ HTML and CSS
 

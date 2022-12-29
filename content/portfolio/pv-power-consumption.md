@@ -7,6 +7,6 @@ project = "[View Dashboard](https://williamtruong.shinyapps.io/power_consumption
 shortDescription = "The web application helps the customer to assess the electricity consumption and generation seasonally."
 solution = "The web application helps the customer to assess the electricity consumption and generation seasonally in order to estimate the investment costs and the amortisation of a new PV system."
 thumbnail = "/uploads/pv-power-consumption.png"
-title = ""
+title = "Photovoltaic Investment Assessment"
 
 +++

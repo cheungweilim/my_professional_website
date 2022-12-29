@@ -17,29 +17,35 @@ menu:
     - name: Resume
       url: '#resume'
       weight: 5
-    - name: Blog
-      url: blog
-      weight: 6
+    # - name: Blog
+    #   url: blog
+    #   weight: 6
   sitemap:
     - name: Home
       url: /
       weight: 1
-    - name: Blog
-      url: blog
-      weight: 2
+    # - name: Blog
+    #   url: blog
+    #   weight: 2
 params:
   blogPageURL: blog
   contactButtonLabel: Contact William Today
   contactLink: '#contact'
-  copyright: All right reserved copyright © Dr. -Ing. William Truong 2022
+  copyright: All right reserved copyright © Dr. -Ing. William Truong 2023
   footerLogo: images/site-navigation/logo-william.png
   formspreeURL: https://formspree.io/f/mknekdel
   googleAnalytics: YOUR GOOGLE ANALYTICS CODE
   logo: images/site-navigation/logo-william.png
   social:
+    # - icon: fa-facebook-square
+    #   url: https://www.linkedin.com/in/truongwilliam/
+    #   weight: 1
     - icon: fa-linkedin-square
       url: https://www.linkedin.com/in/truongwilliam/
       weight: 1
-    - icon: /static/icons/orcid.svg
-      url: https://orcid.org/0000-0002-9857-4437
-      weight: 2
+    # - icon: fa-twitter-square
+    #   url: https://www.linkedin.com/in/truongwilliam/
+    #   weight: 1
+    # - icon: /static/icons/orcid.svg
+    #   url: https://orcid.org/0000-0002-9857-4437
+    #   weight: 2

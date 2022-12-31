@@ -10,3 +10,11 @@ title = "Showcase Interactive Plots"
 
 +++
 #### [View Demo HTML Web-Report](/uploads/showcase_visualisations.html)
+
+✅ R and R Markdown
+
+✅ HTML and CSS
+
+✅ Plotting with ggplot to create beautifuls plots
+
+✅ Using multiple R packages for easy plotting

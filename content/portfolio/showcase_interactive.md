@@ -10,3 +10,4 @@ thumbnail = ""
 title = ""
 
 +++
+#### [View Demo Dashboard](html/showcase_visualisations.html)

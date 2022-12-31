@@ -1,6 +1,6 @@
 +++
 categories = "R Markdown; HTML Report"
-challenge = "Job role requires ability to visualise data in interactive graphics and produce reporting/documentation"
+challenge = "The job application requires the ability to visualise data, create interactive graphics and write reports/documentation."
 date = 2022-12-30T23:00:00Z
 project = "[View HTML Web-Report](/uploads/showcase_visualisations.html)"
 shortDescription = "This website shows the possibilities of R for easy understanding."

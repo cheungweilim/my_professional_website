@@ -9,7 +9,7 @@ thumbnail = "/uploads/showcase_visualisations.png"
 title = "Showcase Interactive Plots"
 
 +++
-#### [View Demo HTML Web-Report](/uploads/showcase_visualisations.html)
+#### [View HTML Plot Showcase](/uploads/showcase_visualisations.html) 
 
 ✅ R and R Markdown
 

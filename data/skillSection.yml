@@ -19,8 +19,10 @@ skill:
   - title: AWS
     percent: 40
   - title: SQL
-    percent: 40
+    percent: 50
   - title: javaScript
     percent: 30
+  - title: Data Governance
+    percent: 50
   - title: Microsoft Office
     percent: 90

@@ -20,5 +20,5 @@ button1Name: LinkedIn
 button2Name: Download CV
 button1Target: https://www.linkedin.com/in/truongwilliam/
 button2Target: "/cv/resume-william.pdf"
-image: images/hero/user-picture-wt.jpg
+image: images/hero/user-picture-wt2.jpg
 imageMaskPosition: 70px 0px

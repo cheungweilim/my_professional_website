@@ -7,7 +7,7 @@ content: >
   I have a strong background in lighting technology, data science and machine learning. 
   I mainly use R and Python to solve daten-driven challenges.
 
-image: images/hero/user-picture-wt.jpg
+image: images/hero/user-picture-wt2.jpg
 
 skill:
   - title: R
@@ -20,7 +20,7 @@ skill:
     percent: 40
   - title: SQL
     percent: 50
-  - title: javaScript
+  - title: JavaScript
     percent: 30
   - title: Data Governance
     percent: 50

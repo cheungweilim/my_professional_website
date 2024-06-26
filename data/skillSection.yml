@@ -24,5 +24,7 @@ skill:
     percent: 30
   - title: Data Governance
     percent: 50
+  - title: Data Warehouse
+    percent: 40
   - title: Microsoft Office
     percent: 90
